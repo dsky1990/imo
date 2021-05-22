@@ -3,11 +3,11 @@
     "static/css/0.55b532ab.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/css/0.55b532ab.chunk.css",
     "static/js/0.55a4aaf1.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/0.55a4aaf1.chunk.js",
     "static/css/1.a1c3bbb3.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/css/1.a1c3bbb3.chunk.css",
-    "static/js/1.e80cc7c2.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/1.e80cc7c2.chunk.js",
+    "static/js/1.66799a3d.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/1.66799a3d.chunk.js",
     "static/css/2.c8aae5f5.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/css/2.c8aae5f5.chunk.css",
     "static/js/2.64c55f88.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/2.64c55f88.chunk.js",
-    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/main.555ba347.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/runtime-main.f28ea4dd.js",
+    "main.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/main.f06ada38.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/runtime-main.6abe53de.js",
     "static/js/5.f21128df.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/5.f21128df.chunk.js",
     "static/css/6.6dd7d679.chunk.css": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/css/6.6dd7d679.chunk.css",
     "static/js/6.ba5f0fb4.chunk.js": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/js/6.ba5f0fb4.chunk.js",
@@ -34,8 +34,8 @@
     "static/media/mw.3a883031.png": "https://cdn.jsdelivr.net/gh/dsky1990/imo@main/static/media/mw.3a883031.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f28ea4dd.js",
+    "static/js/runtime-main.6abe53de.js",
     "static/js/5.f21128df.chunk.js",
-    "static/js/main.555ba347.chunk.js"
+    "static/js/main.f06ada38.chunk.js"
   ]
 }
